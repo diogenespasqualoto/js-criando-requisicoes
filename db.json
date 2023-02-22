@@ -90,6 +90,20 @@
       "url": "https://www.youtube.com/embed/viRW15_qUZw",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 13
+    },
+    {
+      "titulo": "Conhendo o NestJS",
+      "descricao": "8 mil visualizações",
+      "url": "https://www.youtube.com/embed/YHpG6t91oW8",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 14
+    },
+    {
+      "titulo": " Vue: What to Expect in 2023 by Evan You - Vue.js Nation",
+      "descricao": "0 mil visualizações",
+      "url": "https://youtube.com/embed/OrT0tHGXyqE",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 15
     }
   ]
 }
