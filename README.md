@@ -4,9 +4,9 @@
 
     - Simulando uma API
 
-    [] Projetos estáticos
-    [] Node.js
-    [] json-server
+    [✔️] Projetos estáticos
+    [✔️] Node.js
+    [✔️] json-server
 
 ## Módulo 2
 

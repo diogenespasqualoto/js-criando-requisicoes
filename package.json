@@ -1,0 +1,11 @@
+{
+  "name": "js-criando-requisicoes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/diogenespasqualoto/js-criando-requisicoes.git",
+  "author": "diogenespasqualto <diogenespasqualoto147@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
