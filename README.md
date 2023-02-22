@@ -21,7 +21,7 @@
 
     - Criando novos elementos
 
-    [] Requisições POST
+    [✔️] Requisições POST
     [] Captando eventos
     [] Enviar vídeos
 
