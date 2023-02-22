@@ -12,7 +12,7 @@
 
     - Exibindo elementos
 
-    [] Requisiçãio GET
+    [✔️] Requisição GET
     [] Manipulando o DOM
     [] forEach()
     [] Crescendo a lista
