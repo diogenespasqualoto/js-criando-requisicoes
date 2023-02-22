@@ -14,7 +14,7 @@
 
     [✔️] Requisição GET
     [✔️] Manipulando o DOM
-    [] forEach()
+    [✔️] forEach()
     [] Crescendo a lista
 
 ## Módulo 3
