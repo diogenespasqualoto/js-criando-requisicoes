@@ -29,7 +29,7 @@
 
     - Buscando elementos
 
-    [] Busca de videos
+    [✔️] Busca de videos
     [] Busca dinâmica
     [] Reutilizar funções
     [] Lista filtrada
