@@ -22,8 +22,8 @@
     - Criando novos elementos
 
     [✔️] Requisições POST
-    [] Captando eventos
-    [] Enviar vídeos
+    [✔️] Captando eventos
+    [✔️] Enviar vídeos
 
 ## Módulo 4
 
