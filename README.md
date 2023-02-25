@@ -40,4 +40,4 @@
 
     [✔️] Carrengamento da lista
     [✔️] inserção de videos
-    [] Busca não encontrada
+    [✔️] Busca não encontrada
