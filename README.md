@@ -30,9 +30,9 @@
     - Buscando elementos
 
     [✔️] Busca de videos
-    [] Busca dinâmica
-    [] Reutilizar funções
-    [] Lista filtrada
+    [✔️] Busca dinâmica
+    [✔️] Reutilizar funções
+    [✔️] Lista filtrada
 
 ## Módulo 5
 
