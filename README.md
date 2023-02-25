@@ -38,6 +38,6 @@
 
     - Lidando com erros
 
-    [] Carrengamento da lista
+    [✔️] Carrengamento da lista
     [] inserção de videos
     [] Busca não encontrada
