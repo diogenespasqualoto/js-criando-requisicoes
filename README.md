@@ -39,5 +39,5 @@
     - Lidando com erros
 
     [✔️] Carrengamento da lista
-    [] inserção de videos
+    [✔️] inserção de videos
     [] Busca não encontrada
